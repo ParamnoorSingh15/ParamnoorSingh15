@@ -5,7 +5,7 @@ I enjoy building real-world projects that combine intelligent systems with pract
 
 ## 🚀 About Me
 - 🎓 B.Tech CSE (AI & ML) at Model Institute of Engineering and Technology
-- 📊 CGPA: 9.35/10 till 4th semester
+- 📊 CGPA: 9.27/10 till 5th semester
 - 🤖 Interested in AI/ML, Computer Vision, Data Analytics, and Research
 - 💻 Built projects in **YOLO-based football analytics** and **full-stack ride-hailing applications**
 - 🌱 Currently learning more about deep learning, advanced ML, and real-world deployment
